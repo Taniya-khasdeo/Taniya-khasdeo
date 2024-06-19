@@ -1,7 +1,5 @@
 Hi there! 👋 I'm Taniya Khasdeo
-
-About Me-
-"Hello! I'm Taniya Khasdeo,I grew up in betul madhya pradesh currently residing in Indore pursuing my btech at medicaps university.
+I grew up in betul madhya pradesh currently residing in Indore pursuing my btech at medicaps university.
 
 Interests & Expertise
 🔬 I'm deeply interested in machine learning,artificial intelligence.
